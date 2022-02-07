@@ -1,0 +1,15 @@
+package net.digitalingot.feather;
+
+import java.util.*;
+import com.google.common.collect.*;
+
+public class km
+{
+    public static final Map<Integer, String> FU;
+    public static final Map<Integer, String> FV;
+    
+    static {
+        FU = (Map)ImmutableMap.builder().put(Maps.immutableEntry((Object)0, (Object)"P")).put(Maps.immutableEntry((Object)1, (Object)"FP")).put(Maps.immutableEntry((Object)2, (Object)"FF")).put(Maps.immutableEntry((Object)3, (Object)"BP")).put(Maps.immutableEntry((Object)4, (Object)"PP")).put(Maps.immutableEntry((Object)5, (Object)"R")).put(Maps.immutableEntry((Object)6, (Object)"AA")).put(Maps.immutableEntry((Object)7, (Object)"T")).put(Maps.immutableEntry((Object)8, (Object)"DS")).put(Maps.immutableEntry((Object)9, (Object)"FW")).put(Maps.immutableEntry((Object)16, (Object)"SH")).put(Maps.immutableEntry((Object)17, (Object)"SM")).put(Maps.immutableEntry((Object)18, (Object)"BoA")).put(Maps.immutableEntry((Object)19, (Object)"KB")).put(Maps.immutableEntry((Object)20, (Object)"FA")).put(Maps.immutableEntry((Object)21, (Object)"L")).put(Maps.immutableEntry((Object)32, (Object)"EFF")).put(Maps.immutableEntry((Object)33, (Object)"ST")).put(Maps.immutableEntry((Object)34, (Object)"UNB")).put(Maps.immutableEntry((Object)35, (Object)"F")).put(Maps.immutableEntry((Object)48, (Object)"POW")).put(Maps.immutableEntry((Object)49, (Object)"PUN")).put(Maps.immutableEntry((Object)50, (Object)"FLA")).put(Maps.immutableEntry((Object)51, (Object)"INF")).put(Maps.immutableEntry((Object)61, (Object)"LoS")).put(Maps.immutableEntry((Object)62, (Object)"LU")).put(Maps.immutableEntry((Object)70, (Object)"MEN")).build();
+        FV = (Map)ImmutableMap.builder().put(Maps.immutableEntry((Object)1, (Object)"Spe")).put(Maps.immutableEntry((Object)2, (Object)"Slo")).put(Maps.immutableEntry((Object)3, (Object)"Has")).put(Maps.immutableEntry((Object)4, (Object)"Fat")).put(Maps.immutableEntry((Object)5, (Object)"Str")).put(Maps.immutableEntry((Object)6, (Object)"Hea")).put(Maps.immutableEntry((Object)7, (Object)"Dmg")).put(Maps.immutableEntry((Object)8, (Object)"Jum")).put(Maps.immutableEntry((Object)9, (Object)"Nau")).put(Maps.immutableEntry((Object)10, (Object)"Reg")).put(Maps.immutableEntry((Object)11, (Object)"Res")).put(Maps.immutableEntry((Object)12, (Object)"Fir")).put(Maps.immutableEntry((Object)13, (Object)"Wat")).put(Maps.immutableEntry((Object)14, (Object)"Inv")).put(Maps.immutableEntry((Object)15, (Object)"Bli")).put(Maps.immutableEntry((Object)16, (Object)"NV")).put(Maps.immutableEntry((Object)17, (Object)"Hun")).put(Maps.immutableEntry((Object)18, (Object)"Wea")).put(Maps.immutableEntry((Object)19, (Object)"Poi")).put(Maps.immutableEntry((Object)20, (Object)"Wit")).put(Maps.immutableEntry((Object)21, (Object)"HBo")).put(Maps.immutableEntry((Object)22, (Object)"Abs")).put(Maps.immutableEntry((Object)23, (Object)"Sat")).put(Maps.immutableEntry((Object)24, (Object)"Glo")).put(Maps.immutableEntry((Object)25, (Object)"Lev")).put(Maps.immutableEntry((Object)26, (Object)"Luc")).put(Maps.immutableEntry((Object)27, (Object)"BLu")).build();
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "required": true,
+  "minVersion": "0.8.3",
+  "package": "net.digitalingot.feather.mixin.core",
+  "refmap": "mixins.feather.refmap.json",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m"
+  ]
+}
