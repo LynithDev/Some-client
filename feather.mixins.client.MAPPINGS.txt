@@ -1,0 +1,74 @@
+---------------- FEATHERMC ---------------------
+feather.mixins.client MAPPINGS
+NOTE these mappings may not be 100% the same names! 
+This is due to timing issues on my part. 
+any ones with same names have been merged, 
+and things were deleted becuause they were empty
+ -----------------------------------------------------
+aa -> am deleted
+ao SplashProgressMixin
+aq SplashProgressMixin
+ar SplashProgressMixin(2)
+au ClassInheritanceMultiMapMixin
+av GuiContainerMixin
+aw MinecraftMixin
+ax KeybindingMixin
+ay MinecraftMixin 
+az ChunkMixin
+b LayerCapeMixin
+ba LayerHeldItemMixin
+bb ModelBipedMixin
+bc PlayerControllerMPMixin
+bd RenderFishMixin
+be RenderLivingEntityMixin
+bf GuiIngameMixin
+bg GuiNewChatMixin
+bh BlockPortalMixin
+bi EntityRendererMixin
+bj FMLCommonHandlerMixin (mod renamer)
+bk FallbackResourceManagerMixin
+bl GuiIngameMenuMixin
+bm MinecraftMixin
+bn RenderLivingEntityMixin
+bo MinecraftMixin
+bp ItemRendererMixin
+bq LayerArmorBaseMixin
+br RenderItemMixin
+bs RenderEntityItemMixin
+bt GuiMultiplayerMixin
+bu AbstractEntityPlayerMixin
+bv FontRendererMixin
+bw GuiChatMixin
+bx NetworkPlayerInfoMixin
+by InventoryEffectRendererMixin
+bz GuiIngameMixin
+ca GuiMixin
+cb EntityFXMixin
+cc FXMixin
+cd RenderGlobalMixin
+ce RenderGlobalMixin
+cf RenderGlobalMixin
+cg BlockInfoMixin
+ch ChunkCacheMixin
+ci FMLClientHandlerMixin
+cj FluidRegistryMixin
+ck ForgeBlockModelRendererMixin
+cl ForgeHooksClientMixin
+cm VertexLighterFlatMixin
+cn VertexLighterSmootherMixin
+co AnimationModelBaseMixin
+cp MultiLayerModelMixin
+cq BakedMixin
+cr BlockMixin
+cs ChunkMixin
+ct RenderGlobalMixin
+cu WorldMixin
+cv WorldManagerMixin
+cw BlockPosMixin
+cx BlockRendererDispatcherMixin
+cy EnumFacingMixin
+cz RenderGlobalMixin
+d -> x deleted
+y EntityRendererMixin
+
+
